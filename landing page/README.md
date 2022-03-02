@@ -18,7 +18,7 @@
 - JS
 
 ## run
-you can open the index.htlm file by any browser F
+you can open the index.htlm file by any browser 
 
 ## Development
 
