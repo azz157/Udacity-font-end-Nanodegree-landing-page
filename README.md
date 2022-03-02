@@ -1,2 +1,7 @@
-# Udacity-font-end-Nanodegree-landing-page
-this repository is dedicated for the second Udacity front end nanodegree: the landing page project
+# Landing Page
+this project is for Udacity's Front End Nanodegree program.Html and Css starter code provided by Udacity
+## Description 
+This is basic landing page that uses Javascript to create a NavBar dynamically and to highlight sections when scrolled.
+the project uses CSS and JavaScript
+### To view project 
+you don't need any to download any packges.
